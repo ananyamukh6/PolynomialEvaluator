@@ -1,0 +1,82 @@
+Tests started on:
+Wed Dec 28 13:07:38 EST 2016
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test00
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test00
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test01
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test01
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test02
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test02
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test03
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test04
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test04
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test05
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test05
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test06
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test06
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test07
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test07
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test08
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test08
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test09
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test09
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test10
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test10
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test11
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test11
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test12
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test12
+Tests completed on:
+Wed Dec 28 13:08:09 EST 2016

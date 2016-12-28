@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+cModel Technology
+d/homes/ananya/enpm674_user/Project2/project2-part1/bitbucket/test/test_cla/test01
+!s112 0.1
+!i10d 8192
+!i10e 25
+!i10f 100
+vglobal_vars
+Io[54797G>2UWFgcZ1aPga1
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 d/homes/ananya/enpm674_user/Project2/project2-part1/bitbucket/test/test_rca1/test01
+Z2 w1476835162
+F../../../src/myGlbl.v
+Z3 8sample_rca_testbench.v
+Z4 Fsample_rca_testbench.v
+L0 6
+Z5 OL;L;10.2c;57
+r1
+31
+Z6 !s108 1476836021.725196
+Z7 !s107 ../../../src/myGlbl.v|sample_rca_testbench.v|
+Z8 !s90 sample_rca_testbench.v|
+Z9 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s110 1476836021
+!s100 a7fN>m8hIf408RlYIF<T?2
+!i10b 1
+!s85 0
+!i111 0
+vsample_cla_testbench
+ITW?mYeDQ:e>I@9V31P6TH3
+Z10 V`JN@9S9cnhjKRR_L]QIcM3
+Z11 d/afs/glue.umd.edu/home/glue/a/n/ananya/home/enpm674_user/Project2/project2-part1/bitbucket/test/test_rca/test01
+w1476763543
+8sample_cla_testbench.v
+Fsample_cla_testbench.v
+L0 32
+R5
+r1
+31
+R9
+!s107 ../../../src/myGlbl.v|sample_cla_testbench.v|
+!s90 sample_cla_testbench.v|
+!s110 1476763778
+!s108 1476763778.810089
+!s100 02hhFHmTJ^gaTT0k6Eo:31
+!i10b 1
+!s85 0
+!i111 0
+vsample_rca_driver
+R10
+r1
+31
+I;6ViXDTKI`oFmdEadV_j:2
+R11
+w1476767770
+8sample_rca_driver.v
+Fsample_rca_driver.v
+L0 31
+R5
+R9
+!s90 sample_rca_driver.v|
+!s100 Jg7TVgn6<^FkP<=W>W3b72
+!s108 1476767773.923972
+!s107 sample_rca_driver.v|
+!s85 0
+!i10b 1
+!i111 0
+vsample_rca_testbench
+R10
+r1
+31
+IoAm_6NWETF1WQNTK=cB7?3
+R1
+R2
+R3
+R4
+L0 32
+R5
+R6
+R7
+R8
+R9
+!s100 XZ6ZAD;RoXn8ez0kHWkGC3
+!s85 0
+!i10b 1
+!i111 0
+vsample_rca_toplevel
+R10
+r1
+31
+IiEo099FGMjAIG>7OEm9^f2
+R11
+w1476763670
+8util/sample_rca_toplevel.v
+Futil/sample_rca_toplevel.v
+L0 30
+R5
+R9
+!s100 mM8<0H1=zodi=<QbT;<3^2
+!s90 util/sample_rca_toplevel.v|
+!s108 1476767773.993054
+!s107 util/sample_rca_toplevel.v|
+!s85 0
+!i10b 1
+!i111 0
+vtestbench
+R10
+r1
+!s85 0
+31
+!s100 PiG[9N3UAVQ_mc8O2dNDL2
+I3YEC>o7i8h8D:QdNERW_S1
+d/homes/ananya/enpm674_user/Project3_latest_Ananya_Scott/test/test00
+w1480968904
+8testbench.v
+Ftestbench.v
+L0 31
+R5
+!s90 testbench.v|
+R9
+!i10b 1
+!s108 1482948458.586762
+!s107 testbench.v|
+!i111 0

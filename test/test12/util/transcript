@@ -1,0 +1,6 @@
+# vsim -L ../../../../bin -do util/simulate-do -c -lic_plus -quiet -novopt sample_cla_testbench 
+# ** Error: (vsim-19) Failed to access library 'work' at "work".
+# No such file or directory. (errno = ENOENT)
+# Error loading design
+ENT)
+# Error loading design

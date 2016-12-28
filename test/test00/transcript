@@ -1,0 +1,7 @@
+# vsim -L ../../bin -do ./util/simulate-do -c -lic_plus -quiet -novopt testbench 
+# Refreshing /afs/glue.umd.edu/home/glue/a/n/ananya/home/enpm674_user/Project3_latest_Ananya_Scott/test/test00/work.testbench
+# do ./util/simulate-do 
+#                    0,  x:      x, coef0:      x, coef1 :     x, coef2 :      x, coef3 :      x, sum:          x
+#                  150,  x:     -2, coef0:     -1, coef1 :     1, coef2 :      1, coef3 :      0, sum:          1
+# ** Note: $finish    : testbench.v(43)
+#    Time: 300 ns  Iteration: 0  Instance: /testbench

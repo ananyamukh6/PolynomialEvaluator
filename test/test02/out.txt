@@ -1,0 +1,40 @@
+Reading pref.tcl 
+
+# 10.2c
+
+# vsim -L ../../bin -do ./util/simulate-do -c -lic_plus -quiet -novopt testbench 
+# Refreshing /afs/glue.umd.edu/home/glue/a/n/ananya/home/enpm674_user/Project3_latest_Ananya_Scott/test/test02/work.testbench
+# do ./util/simulate-do 
+#                    0, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                    5, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   10, 0, r: 0, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   15, 1, r: 0, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   20, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   25, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   30, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   35, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, 786435}, >>> data: '{x, x, x, x, x, x, x, -6}
+#                   40, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, x, 786435}, >>> data: '{x, x, x, x, x, x, x, -6}
+# write_enable_result 0
+# write_enable_result exit 1, status 1
+#                   45, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, x, x, -1, -6}
+#                   50, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, x, x, -1, -6}
+# execution_counter           0 val = 65530
+#                   55, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, x, -3, -1, x}
+#                   60, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, x, -3, -1, x}
+# execution_counter           1 val = 65535
+#                   65, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, -1, -3, x, x}
+#                   70, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, -1, -3, x, x}
+# execution_counter           2 val = 65533
+# XXXXXXXXXX
+#                   75, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, -1, x, x, x}
+#                   80, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, -1, x, x, x}
+# execution_counter           3 val = 65535
+#                   85, 1, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   90, 0, r: 1, sum:          x >>> instrs: '{x, x, x, x, x, x, -786429, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                   95, 1, r: 1, sum: 4294967233 >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                  100, 0, r: 1, sum: 4294967233 >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                  105, 1, r: 1, sum: 4294967233 >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                  110, 0, r: 1, sum: 4294967233 >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+#                  115, 1, r: 1, sum: 4294967233 >>> instrs: '{x, x, x, x, x, x, x, x}, >>> data: '{x, x, x, x, x, x, x, x}
+# ** Note: $finish    : testbench.v(23)
+#    Time: 120 ns  Iteration: 0  Instance: /testbench

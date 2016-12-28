@@ -1,0 +1,10 @@
+Tests started on:
+Sun Dec  4 15:28:55 EST 2016
+-----------------------------------------------------
+Test result for:
+/homes/ananya/enpm674_user/Project3_latest/test/test03
+-----------------------------------------------------
+Error comparison result for: 
+/homes/ananya/enpm674_user/Project3_latest/test/test03
+Tests completed on:
+Sun Dec  4 15:28:58 EST 2016
